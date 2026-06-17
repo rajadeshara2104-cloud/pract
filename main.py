@@ -16,6 +16,9 @@ x = tuple(y)
 print(x)
 
 
+
+
+
 thistuple = ("apple", "banana", "cherry")
 y = list(thistuple)
 y.append("orange")
@@ -41,3 +44,20 @@ thisset.add(mango)
 
   
   
+my_list = [10, 20, 30, 40]
+print(my_list)
+
+my_list = [10, 20, 30]
+my_list.append(40)
+print(my_list)
+
+my_list = [10, 20, 30, 40]
+my_list[1] = 25
+print(my_list)
+
+my_list = [10, 20, 30, 40]
+my_list.remove(20)
+print(my_list)
+
+my_list = [10, 20, 30, 40]
+del my_list
