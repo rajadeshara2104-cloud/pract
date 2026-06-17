@@ -1,14 +1,21 @@
-set1 = {11,12,13}
-set2 = {11,15,16}
 
-set3= set1 | set2
-print(set3)
+print("HEllo word")
 
-set4=set1 - set2
-print(set4)
+name="raj"
+age=18
+price=20
 
-set5 = set1 & set2
-print(set5)
+print(age)
+
+print("my name is:",name)
+print("my age is:",age)
+print("price is:",price)
+
+print(type(name))
+print(type(age))
+print(type(price))
+    
+
 
 
 
