@@ -34,7 +34,7 @@ print(thistuple)
 
 my_tuple = ("apple", "banana", "cherry",)
 my_tuple = add + (mango,)
-print(my_tuple)z
+print(my_tuple)
 
 thisset = {"apple", "banana", "cherry"}
 print(thisset)
@@ -61,3 +61,5 @@ print(my_list)
 
 my_list = [10, 20, 30, 40]
 del my_list
+
+
