@@ -163,7 +163,6 @@ else:
     
     
 
-day = 4
 match day:
   case 1:
     print("Monday")
@@ -178,4 +177,5 @@ match day:
   case 6:
     print("Saturday")
   case 7:
+    day = 4
     print("Sunday")
