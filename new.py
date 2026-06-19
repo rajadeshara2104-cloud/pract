@@ -161,9 +161,15 @@ else:
     print("You are a Minor.")
     
     
+    i = 1
+while i < 11:
+  print(i)
+  i += 1
+    
+    
     
 
-match day:
+
   case 1:
     print("Monday")
   case 2:
@@ -174,8 +180,6 @@ match day:
     print("Thursday")
   case 5:
     print("Friday")
-  case 6:
-    print("Saturday")
-  case 7:
-    day = 4
-    print("Sunday")
+  case
+    
+    
