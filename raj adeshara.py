@@ -283,6 +283,12 @@ match day:
     case _:
         print("Invalid day number")
     
+    #task-8
+    #while loop:
+    i = 1
+while i < 6:
+  print(i)
+  i += 1
     
     
 
